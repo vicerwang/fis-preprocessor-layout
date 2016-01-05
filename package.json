@@ -1,0 +1,25 @@
+{
+  "name": "fis-preprocessor-layout",
+  "version": "0.0.1",
+  "description": "A processor for fis to extends layout template.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vicerwang/fis-preprocessor-layout"
+  },
+  "keywords": [
+    "fis",
+    "processor",
+    "extends",
+    "layout"
+  ],
+  "author": "vic01724@sina.cn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vicerwang/fis-preprocessor-layout/issues"
+  },
+  "homepage": "https://github.com/vicerwang/fis-preprocessor-layout"
+}
